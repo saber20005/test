@@ -1,0 +1,4 @@
+cat filename | grep name
+ls -al 
+mkdir testologe
+bash hound.sh
